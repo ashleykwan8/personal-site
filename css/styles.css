@@ -1,0 +1,66 @@
+body {
+    margin:0;
+    text-align: center;
+    background-color: #d4e2d4;
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+}
+.icon-attr {
+    font-family: 'Josefin Slab', serif;
+    font-size: 14px;
+}
+
+hr {
+    border-style:dotted none none;
+    border-color:#ecb390 ;
+    border-width: 12px;
+    width: 5%;
+}
+h1, h3 {
+    color: #df7861;
+}
+
+.title {
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+
+.top-container {
+
+}
+
+.middle-container {
+
+}
+.top-container {
+    background-color:#d4e2d4;
+    position:relative;
+    padding-top:100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 900px;
+    top:50px;
+    height: 400px;
+    width: 400px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left:950px;
+    bottom:300px;
+    height: 400px;
+    width: 400px;
+}
+
+.mountain {
+    height:450px;
+    width: 450px;
+}
+
+.profile-img {
+    height: 250px;
+    width: 250px;
+    margin-top: 40px;
+}
