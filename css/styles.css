@@ -9,12 +9,18 @@ body {
     font-family: 'Josefin Slab', serif;
     font-size: 14px;
 }
-h1{
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 65px;
+    font-weight: 900 bolder;
     color: #df7861;
-    margin: 40px auto 0 auto;
+    margin: 40px auto 0 auto; 
 }
+
 h2 {
     font-size: 1.5rem;
+    line-height: 1.5em;
 }
 
 h3 {
@@ -26,11 +32,6 @@ hr {
     border-color:#ecb390 ;
     border-width: 12px;
     width: 5%;
-}
-
-.title {
-    font-family: 'Sacramento', cursive;
-    font-size: 60px;
 }
 
 .circular {
@@ -77,4 +78,8 @@ hr {
 .code-img {
     height: 150px;
     width: 150px;
+}
+
+.footer-link {
+    color: #fcf8e8;
 }
