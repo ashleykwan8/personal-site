@@ -20,11 +20,13 @@ h1 {
 
 h2 {
     font-size: 1.5rem;
+    font-weight: normal;
     line-height: 1.5em;
 }
 
 h3 {
     color: #df7861;
+    margin-top: 10px;
 }
 
 hr {
@@ -40,6 +42,13 @@ hr {
 
 .middle-container {
 
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;   
+    text-align: left;
+    line-height: 2;
 }
 .top-container {
     background-color:#d4e2d4;
