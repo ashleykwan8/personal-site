@@ -9,13 +9,17 @@ body {
     font-family: 'Josefin Slab', serif;
     font-size: 14px;
 }
+.About {
+    margin-left: 80px;
+    margin-right: 80px;
+}
 
 h1 {
     font-family: 'Sacramento', cursive;
     font-size: 65px;
     font-weight: 900 bolder;
     color: #df7861;
-    margin: 40px auto 0 auto; 
+    /* margin: 40px auto 0 auto;  */
 }
 
 h2 {
